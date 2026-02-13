@@ -1,6 +1,6 @@
 # Hi there, I'm Ivanna Nakonechna 👋
 
-### 🖥 Junior AI & Data Engineer |🎓 Computer Science Student |🌍 Based in Warsaw, Poland
+🖥 *Junior AI & Data Engineer |🎓 Computer Science Student |🌍 Based in Warsaw, Poland*
 
 *Welcome!* I'm a Computer Science student focusing on the intersection of **Data Engineering** and **Machine Learning**. My approach is to build robust architecture for intelligent solutions. I love working with cloud technologies, automating process in Python, and turning data chaos into clear engineering products. I`m currently actively deepening my knowledge in **Neural Networks** and application scaling. 
 
@@ -57,7 +57,7 @@
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanna-nakonechna-56165a2bb/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakonecznaiwanna@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakonecznaiwanna@gmail.com)**nakonecznaiwanna@gmail.com**
 <!--
 **IvannaNakonechna/IvannaNakonechna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
