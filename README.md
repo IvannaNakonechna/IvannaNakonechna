@@ -50,7 +50,7 @@
 ### ✨ Featured Projects ✨
 * 📊 **[Analytics Dashboard](https://github.com/IvannaNakonechna/analytics-dashboard-multi-db-rest-api)** - Full-stack currency tracker. Uses **PHP** for the **REST API** and backend logic, **SQL** for storage, and **Docker** for deployment.
 * 👩🏻‍🔬 **[ML Experiments](https://github.com/IvannaNakonechna/Machine-Learning-Python-)** - Implementation of **classic machine learning algorithms** (Random Forest, SVM, k-NN, Decision Trees) and clustering methods. **Data analysis** and **visualization** using **Python** (Pandas, NumPy, Scikit-learn, Maplolib, Seaborn) in **Google Colab**.
-* 💱 **[Currency Converter](https://github.com/IvannaNakonechna/Currency_Converter)** - Desktop application in **C#** that calculates currency rates in real time.
+* 💱 **[Currency Converter](https://github.com/IvannaNakonechna/Currency_Converter)** - Desktop application in **C#** that calculates currency rates.
 * 🎨 **[Drawing Board](https://github.com/IvannaNakonechna/Drawing-board)** - Graphic editor in **С#**. Implemented basic drawing tools, canvas work, and graphic event handling through object-oriented programming.
 
 ---
